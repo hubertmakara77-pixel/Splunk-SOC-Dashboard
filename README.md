@@ -98,6 +98,6 @@ This successfully suppressed the noise, immediately revealing suspicious externa
 
 ## 📚 References
 
-* [Splunk Boss of the SOC (BOTS) v1]([https://www.splunk.com/en_us/products/bots.html](https://github.com/splunk/botsv1))
+* [Splunk Boss of the SOC (BOTS) v1](https://github.com/splunk/botsv1)
 * [Splunk Search Processing Language (SPL) Documentation](https://help.splunk.com/en/splunk-enterprise/search/search-manual/10.4/search-overview/about-the-search-language)
 * [Splunk Dashboard Visualization Guide](https://help.splunk.com/en/splunk-enterprise/create-dashboards-and-reports/simple-xml-dashboards/10.4/get-started-with-visualizations/visualization-reference)
